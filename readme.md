@@ -7,7 +7,7 @@
 
 <p><h6> desafio do bootcamp Web developer</h6>
 
-<img src="projeto.png" width= 200" height="200"></p>
+
 
 
 
